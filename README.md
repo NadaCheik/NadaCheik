@@ -21,6 +21,8 @@ J’aide les équipes à **piloter et optimiser leurs opérations** grâce à de
 **Livrables :** KPIs (pics d’arrivée, arrivées tardives, dimensionnement, transports), dashboard Power BI orienté opérationnel.  
 **Tech :** Power BI (modélisation, navigation, storytelling).
 
+➡️ Repo : https://github.com/NadaCheik/event-operations-dashboard
+
 ## 🧰 Compétences
 - **Python** : data cleaning, EDA, features, exports, scripts modulaires
 - **SQL** : jointures, agrégations, CTE, window functions
