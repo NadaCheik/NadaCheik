@@ -14,6 +14,8 @@ J’aide les équipes à **piloter et optimiser leurs opérations** grâce à de
 **Livrables :** KPIs (call handling, turnout, travel, response time), hotspots, prévisions, dashboard interactif.  
 **Tech :** Python (pandas, GeoPandas, scikit-learn), SQL, Power BI.
 
+➡️ Repo : https://github.com/NadaCheik/lfb-operations-geospatial
+
 ### 🏟️ Optimisation opérationnelle d’un événement sportif (12/2025)
 **Objectif :** exploiter des données de scans de billets pour anticiper les besoins le jour J et aider la décision terrain.  
 **Livrables :** KPIs (pics d’arrivée, arrivées tardives, dimensionnement, transports), dashboard Power BI orienté opérationnel.  
